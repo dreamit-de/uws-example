@@ -1,0 +1,32 @@
+{
+  "name": "uws-example",
+  "version": "1.0.0",
+  "description": "Example NodeJS app using uWebsockets.js",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint src/*.ts src/**/*.ts",
+    "start": "npm run build && node build/index.js",
+    "check": "tsc --noEmit --pretty",
+    "test": "echo 'Not defined in this project'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgohlke/uws-example.git"
+  },
+  "author": "Stefan Gohlke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgohlke/uws-example/issues"
+  },
+  "homepage": "https://github.com/sgohlke/uws-example#readme",
+  "devDependencies": {
+    "@sgohlke/ts-base-dependencies": "1.0.23",
+    "@types/body-parser": "1.19.5"
+  },
+  "dependencies": {
+    "@dreamit/graphql-server": "4.5.0",
+    "graphql": "16.8.1",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.39.0"
+  }
+}
