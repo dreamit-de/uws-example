@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/sgohlke/uws-example#readme",
   "devDependencies": {
-    "@sgohlke/ts-base-dependencies": "1.0.23",
+    "@sgohlke/ts-base-dependencies": "1.0.24",
     "@types/body-parser": "1.19.5"
   },
   "dependencies": {
