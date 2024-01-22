@@ -21,12 +21,12 @@
   },
   "homepage": "https://github.com/sgohlke/uws-example#readme",
   "devDependencies": {
-    "@sgohlke/ts-base-dependencies": "1.0.24",
+    "@sgohlke/ts-base-dependencies": "1.0.25",
     "@types/body-parser": "1.19.5"
   },
   "dependencies": {
     "@dreamit/graphql-server": "4.5.0",
     "graphql": "16.8.1",
-    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.39.0"
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.40.0"
   }
 }
