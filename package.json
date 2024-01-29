@@ -25,8 +25,8 @@
     "@types/body-parser": "1.19.5"
   },
   "dependencies": {
-    "@dreamit/graphql-server": "4.5.0",
+    "@dreamit/graphql-server": "4.5.1",
     "graphql": "16.8.1",
-    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.40.0"
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.41.0"
   }
 }
