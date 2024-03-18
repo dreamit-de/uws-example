@@ -27,6 +27,6 @@
   "dependencies": {
     "@dreamit/graphql-server": "4.8.0",
     "graphql": "16.8.1",
-    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.42.0"
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.43.0"
   }
 }
