@@ -27,7 +27,7 @@
     "eslint-plugin-import": "2.29.1",
     "eslint-plugin-unicorn": "54.0.0",
     "typescript": "5.5.3",
-    "typescript-eslint": "7.15.0"
+    "typescript-eslint": "7.16.0"
   },
   "dependencies": {
     "@dreamit/graphql-server": "4.10.1",
