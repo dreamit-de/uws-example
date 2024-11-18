@@ -27,10 +27,10 @@
     "eslint-plugin-import": "2.31.0",
     "eslint-plugin-unicorn": "56.0.0",
     "typescript": "5.6.3",
-    "typescript-eslint": "8.13.0"
+    "typescript-eslint": "8.14.0"
   },
   "dependencies": {
-    "@dreamit/graphql-server": "4.11.0",
+    "@dreamit/graphql-server": "4.11.1",
     "graphql": "16.9.0",
     "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.49.0"
   }
