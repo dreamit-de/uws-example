@@ -22,12 +22,12 @@
   "homepage": "https://github.com/sgohlke/uws-example#readme",
   "devDependencies": {
     "@types/body-parser": "1.19.5",
-    "@types/node": "22.10.7",
+    "@types/node": "22.10.10",
     "eslint-plugin-deprecation": "3.0.0",
     "eslint-plugin-import": "2.31.0",
     "eslint-plugin-unicorn": "56.0.1",
     "typescript": "5.7.3",
-    "typescript-eslint": "8.20.0"
+    "typescript-eslint": "8.21.0"
   },
   "dependencies": {
     "@dreamit/graphql-server": "4.12.2",
