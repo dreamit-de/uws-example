@@ -5,7 +5,7 @@ import {
 import { 
     userSchema, 
     userSchemaResolvers 
-} from './ExampleSchemas'
+} from '@dreamit/graphql-testing'
 import {App} from 'uWebSockets.js'
 
 const graphqlServer = new GraphQLServer(
