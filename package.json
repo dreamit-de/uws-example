@@ -5,7 +5,7 @@
   "main": "build/index.js",
   "scripts": {
     "build": "tsc",
-    "lint": "eslint src/*.ts src/**/*.ts",
+    "lint": "oxlint",
     "start": "npm run build && node build/index.js",
     "check": "tsc --noEmit --pretty",
     "test": "echo 'Not defined in this project'"
@@ -22,12 +22,9 @@
   "homepage": "https://github.com/sgohlke/uws-example#readme",
   "devDependencies": {
     "@types/body-parser": "1.19.5",
-    "@types/node": "22.13.4",
-    "eslint-plugin-deprecation": "3.0.0",
-    "eslint-plugin-import": "2.31.0",
-    "eslint-plugin-unicorn": "56.0.1",
-    "typescript": "5.7.3",
-    "typescript-eslint": "8.24.0"
+    "@types/node": "22.13.5",
+    "oxlint": "0.15.12",
+    "typescript": "5.7.3"
   },
   "dependencies": {
     "@dreamit/graphql-server": "4.12.4",
