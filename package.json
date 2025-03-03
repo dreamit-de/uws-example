@@ -22,9 +22,9 @@
   "homepage": "https://github.com/sgohlke/uws-example#readme",
   "devDependencies": {
     "@types/body-parser": "1.19.5",
-    "@types/node": "22.13.5",
+    "@types/node": "22.13.8",
     "oxlint": "0.15.12",
-    "typescript": "5.7.3"
+    "typescript": "5.8.2"
   },
   "dependencies": {
     "@dreamit/graphql-server": "4.12.4",
