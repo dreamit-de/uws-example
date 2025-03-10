@@ -22,13 +22,13 @@
   "homepage": "https://github.com/sgohlke/uws-example#readme",
   "devDependencies": {
     "@types/body-parser": "1.19.5",
-    "@types/node": "22.13.8",
-    "oxlint": "0.15.12",
+    "@types/node": "22.13.10",
+    "oxlint": "0.15.13",
     "typescript": "5.8.2"
   },
   "dependencies": {
-    "@dreamit/graphql-server": "4.12.4",
-    "@dreamit/graphql-testing": "0.1.1",
+    "@dreamit/graphql-server": "4.13.1",
+    "@dreamit/graphql-testing": "0.1.2",
     "graphql": "16.10.0",
     "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.72.0"
   }
