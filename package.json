@@ -22,8 +22,8 @@
   "homepage": "https://github.com/sgohlke/uws-example#readme",
   "devDependencies": {
     "@types/body-parser": "1.19.6",
-    "@types/node": "24.0.7",
-    "oxlint": "1.4.0",
+    "@types/node": "24.0.10",
+    "oxlint": "1.6.0",
     "typescript": "5.8.3"
   },
   "dependencies": {
